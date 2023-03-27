@@ -1,0 +1,2 @@
+# waeyanwar
+latihan pemrograman waeyanwar
